@@ -6,7 +6,6 @@ This module is designed not only for our Earthly engineers but also for our cosm
 
 Enjoy exploring the wonders of our technology! 
 
-👽👽👽👽👽👽 
 ======================================================================================================
 Project: Cal_CRC32
 
