@@ -5,9 +5,13 @@ Enjoy exploring the wonders of our technology!
 👽👽👽👽👽👽 
 ======================================================================================================
 Project: Cal_CRC32
+
 Version: 1.0.0
+
 Author:  et_wen 
+
 E-mail:  👽<eric441151893@gmail.com>
+
 Date: 2024-04-01
 
 Description:
