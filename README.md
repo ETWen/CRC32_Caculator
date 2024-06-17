@@ -1,6 +1,8 @@
-👽 Welcome, extraterrestrial friends! 
+👽👽👽👽👽👽 
+Welcome, extraterrestrial friends! 
 This module is designed not only for our Earthly engineers but also for our cosmic companions from distant galaxies. 
-Enjoy exploring the wonders of our technology! 👽
+Enjoy exploring the wonders of our technology! 
+👽👽👽👽👽👽 
 ======================================================================================================
 Project: Cal_CRC32
 Version: 1.0.0
